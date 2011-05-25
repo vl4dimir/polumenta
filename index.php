@@ -4,9 +4,9 @@
 <title>*** Полумента генератор ***</title>
 </head>
 <body>
-<!-- Ako vam se dopada, javite mi na snipe714@gmail.com. I hvala sto gledate kod! ;) 
-     Koga zanima PHP kod koji ovo pokrece, neka mi baci mejl... ili neka napise sam,
-     trivijalno je. -->
+<!-- Изворни код погледај на https://github.com/vl4dimir/polumenta
+     Коментаре шаљи на snipe714@gmail.com
+     Хвала лепо. ;) -->
 <table border="0" height="100%" width="100%">
 <tr height="95%">
 <td align="center">
@@ -62,7 +62,7 @@ echo "<h1>".$t1.$t2.$t3."о$t4 Полумента</h1>";
 </td>
 </tr>
 <tr><td valign="bottom" align="center"><font size="1">
-	(Кликћите на "Reload" или на неки од линкова испод.)<br>
+	(Кликћи на "Reload" или на неки од линкова испод.)<br>
 	<a href="index.php">Стандард</a> | <a href="index.php?lolo">Лоло</a>
 	 | <a href="index.php?fljizo">Фљизо</a></font></td></tr>
 </table>
