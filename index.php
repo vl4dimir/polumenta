@@ -2,6 +2,11 @@
 <head>
 <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=utf-8">
 <title>*** Полумента генератор ***</title>
+<style type="text/css">
+  h1 {
+    font-size: 64pt;
+  }
+</style>
 </head>
 <body>
 <!-- Изворни код погледај на https://github.com/vl4dimir/polumenta
@@ -76,10 +81,10 @@ else {
 ?>
 </td>
 </tr>
-<tr><td valign="bottom" align="center"><font size="1">
+<tr><td valign="bottom" align="center">
 	(Кликћи на "Reload" или на неки од линкова испод.)<br>
 	<a href="index.php">Стандард</a> | <a href="index.php?lolo">Лоло</a>
-	 | <a href="index.php?fljizo">Фљизо</a> | <a href="index.php?vreco">Врећо</a></font></td></tr>
+	 | <a href="index.php?fljizo">Фљизо</a> | <a href="index.php?vreco">Врећо</a><br><br>&nbsp;</td></tr>
 </table>
 </body>
 </html>
